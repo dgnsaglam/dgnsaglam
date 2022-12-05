@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dgnsaglam
 - 👀 I’m interested in analytics, computer science, soccer and music.
-- 🌱 I am now taking a graduate level computation course at Georgia Tech. My last course was about Computing for Data Analysis.
+- 🌱 Currently taking Regression Analysis course at Georgia Tech towards the MS analytics degree. I will complete this degree by 2024.
 - 💞️ I’m looking to collaborate on IOT projects related to energy consumption and optimization. 
 - 📫 How to reach me --> linkedin, Twitter
 
